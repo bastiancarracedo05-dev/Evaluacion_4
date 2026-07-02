@@ -1,0 +1,75 @@
+# Material file for Shaun.obj
+
+newmtl textureShaunCoat
+	Ns 51
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd textureShaunCoat.png
+
+newmtl textureShaunLimbs
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.156863 0.152941 0.211765
+	Ks 0.14902 0.14902 0.14902
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunAbsBlack
+	Ns 51
+	d 1
+	illum 2
+	Kd 0.0 0.0 0.0
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunEyeWhite
+	Ns 37
+	d 1
+	illum 2
+	Kd 0.886275 0.890196 0.905882
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunEyeBlack
+	Ns 55
+	d 1
+	illum 2
+	Kd 0.121569 0.121569 0.121569
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunEyeLids
+	Ns 51
+	d 1
+	illum 2
+	Kd 0.545098 0.372549 0.545098
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunTeeth
+	Ns 51
+	d 1
+	illum 2
+	Kd 1.0 0.984314 0.882353
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunTongue
+	Ns 33
+	d 1
+	illum 2
+	Kd 0.686275 0.062745 0.078431
+	Ks 0.556863 0.556863 0.556863
+	Ka 0.2 0.2 0.2
+
+newmtl textureShaunGrass
+	Ns 51
+	d 1
+	illum 2
+	Kd 0.352941 0.509804 0.0
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
